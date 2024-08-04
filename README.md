@@ -1,4 +1,4 @@
-# Logan-s-DSA-COURSE
+# Logan's-DSA-COURSE
 
 Master Data Structures and Algorithms (DSA) with our FREE Tamil course! 💥
 
